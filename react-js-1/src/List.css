@@ -1,0 +1,8 @@
+.s{
+    color:black;
+    border:1px solid black;
+    float:left;
+    width:360px;
+    height:700px;
+    overflow:auto;
+  }

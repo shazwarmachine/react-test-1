@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+  width:850px;;
+  height:700px;
+  overflow:auto;
+  border:1px solid black;
+  margin:0 auto;
+  padding:0;
+  background-image: url(whatsapp.jpg);
+  background-size: cover;
+  background-position: center;
+  float:right;
+}
+
+.chat {
+  margin-top: 50px;
+}
+.chatMessage {
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  width: 700px;
+  display: table;
+}
+.box {
+  background-color: #ffffff;
+  padding: 20px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.imageHolder {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
+
