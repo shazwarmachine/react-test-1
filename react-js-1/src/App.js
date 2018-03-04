@@ -5,44 +5,12 @@ import Pusher from 'pusher-js';
 import ChatList from './ChatList';
 import ChatBox from './ChatBox';
 import "./List.css";
-import Listt from './Listt';
+
 import { List } from 'react-virtualized';
 
 import './App.css';
 
-const list = [
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  'Brian Vaughn',
-  'Brian Vaughn',
-  'Shashank Mishra',
-  // And so on...
-];
+
   let user=[];
 //  let use=[];
 

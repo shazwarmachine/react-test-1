@@ -1,5 +1,5 @@
 .greetings {
-    /* margin-top: 90px; */
+    
     
     text-align: center;
    
@@ -39,10 +39,6 @@
    
 }
 
-/* {chats.map((chat)=>{
-    return (
-      <p key={chat.username}>{chat.username}</p>
-    );
-  })} */
+
 
  
